@@ -1,7 +1,5 @@
 # Taller de normalización – Universidad
 
-> Este repositorio es el resultado del ejercicio de normalización de una base de datos universitaria que partía de **una sola tabla llena de redundancias**. La idea era convertirla en algo más limpio, mantenible y sin datos repetidos. El recorrido completo lo hicimos desde la tabla original hasta la **Cuarta Forma Normal (4FN)**.
-
 ## Situación de partida
 
 La universidad tenía todo en una tabla plana:
